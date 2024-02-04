@@ -1,0 +1,75 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    border: 5px solid blue;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+header b {
+    color: navy;
+    text-shadow: blue 1px 1px 1px;   
+}
+
+header a {
+    background-color: navy;
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 7px;
+    margin-left: 10px;
+}
+
+nav {
+    margin: 15px;
+}
+
+nav a {
+    text-decoration: none;
+    border: 3px solid blue;
+    border-radius: 10px;
+    padding: 3px;
+    margin: 5px;
+}
+
+main {
+    margin: 10px;
+}
+
+main h1 {
+    text-align: center;
+    color: darkblue;
+}
+
+main h2 {
+    color: blue;
+}
+
+main p {
+    font-size: 20px;
+}
+
+.production {
+    border: 5px solid blue;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.anchor {
+    text-decoration: none;
+    border: 3px solid navy;
+    color: darkblue;
+    padding: 5px;
+}
+
+footer {
+    background-color: mediumturquoise;
+    padding: 5px;
+}
+
+footer p {
+    background-color: white;
+    padding: 5px;
+}
